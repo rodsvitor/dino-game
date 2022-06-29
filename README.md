@@ -5,7 +5,7 @@ In this project was used the concepts learned from Dio'courses about javascript,
 
 - Functions;
 - Object Oriented Programming;
-- This concept;
+- <b>This</b> concept;
 - Modules.
 
 ## Demo
